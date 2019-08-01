@@ -5,7 +5,7 @@
 <li>ANTES DE ENVIAR TODOS NUESTRAS CÁMARAS LAS PROBAMOS PARA ASEGURAR QUE FUNCIONAN.  ESTOS DISPOSITIVOS SON MUY SENSIBLES A LA ESTÁTICA ASÍ QUE UTILIZA UNA PULSERA ANTIESTÁTICA Y/O DESCARGA TU ENERGÍA EN ALGUNA ESTRUCTURA METÁLICA ANTES DE MANIPULARLA. UNA DESCARGA ELECTROESTÁTICA PUEDE DAÑAR IRREVERSIBLEMENTE EL MÓDULO.</li>
 <li>CONECTA Y DESCONECTA EL MÓDULO DE TU PLACA ÚNICAMENTE CUANDO NO ESTÉ ENERGIZADA (TOTALMENTE DESCONECTADA) TU RASPBERRY PI. SI TU RASPBERRY PI ESTÁ CONECTADA A LA ENERGÍA AL MOMENTO DE CONECTAR O DESCONECTAR TU MÓDULO DE CÁMARA CAUSARÁS UN DAÑO IRREVERSIBLE***</li>
 </ol>
-<p>Para comenzar a utilizar tu  y encontrar toda la información técnica, te recomendamos las siguientes ligas:</p>
+<p>Para comenzar a utilizar tu Módulo Cámara v2.1 Raspberry Pi y encontrar toda la información técnica, te recomendamos las siguientes ligas:</p>
 <p>Grupo de Facebook en español en México sobre Raspberry Pi:<br>
 <a href="https://www.facebook.com/groups/756481667757225/">https://www.facebook.com/groups/756481667757225/</a></p>
 <p>Video tutorial de cómo instalar la cámara.<br>
