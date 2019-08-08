@@ -20,6 +20,9 @@
 <a href="https://randomnerdtutorials.com/guide-to-raspberry-pi-camera-v2-module/">https://randomnerdtutorials.com/guide-to-raspberry-pi-camera-v2-module/</a></p>
 <p>Otro tutorial con Python en Español:<br>
 <a href="https://unipython.com/raspberry-pi-camera-modulo-tutorial/">https://unipython.com/raspberry-pi-camera-modulo-tutorial/</a></p>
+<p>NVIDIA JETSON NANO<br>
+  <p>Tutorial para usar RPi Cámara v2 con Jetson Nano:<br>
+<a href="https://www.jetsonhacks.com/2019/04/02/jetson-nano-raspberry-pi-camera/">https://www.jetsonhacks.com/2019/04/02/jetson-nano-raspberry-pi-camera/</a></p>
 <p>Quedamos a tus órdenes por esta vía.</p>
 <p>¡Suerte!<br>
 Equipo Cosismo</p>
